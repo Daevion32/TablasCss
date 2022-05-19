@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding:0;
+   
+}
+.background{
+    background-image: url(madera.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+    position:relative;
+    height:750px ;
+    width: 800px;
+    margin: auto;
+        
+}
+.title{
+    display: flex; 
+    justify-content: center;
+    height: 100px;
+    width: 800px;
+    text-align:center;
+
+}
+
+.tabletitle{
+    height:50px;
+    width:600px;
+    background-color: green;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+
+}
+.table{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    top:15px;
+    position:relative;
+}
+.colors1{
+   
+     
+}
+.first{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+   
+   
+}
+.second{
+    height: 40px;
+    width: 100px;
+    background-color: teal;
+   
+}
+.third{
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+   
+}
+.fourth{
+    height: 40px;
+    width: 100px;
+    background-color: navy;
+   
+}
+.five{
+    height: 40px;
+    width: 100px;
+    background-color: lime;
+    position:relative;
+ 
+   
+}
+.six{
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    position:relative;
+   
+}
+.seven{
+    height: 40px;
+    width: 100px;
+    background-color: purple;
+   
+}
+.eight{
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+   
+}
+.nine{
+    height: 40px;
+    width: 100px;
+    background-color: olive;
+   
+}
+.ten{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+   
+}
+.eleven{
+    height: 40px;
+    width: 100px;
+    background-color: black;
+   
+    
+}
+.twelve{
+    height: 40px;
+    width: 100px;
+    background-color: gray;
+    position:relative;
+    
+   
+}
+.thirteen{
+    height: 40px;
+    width: 100px;
+    background-color: olive;
+
+}
+.fourteen{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+   
+}
+.fiveteen{
+    height: 40px;
+    width: 100px;
+    background-color: fuchsia;
+   
+}
+.sixteen{
+    height: 40px;
+    width: 300px;
+    background-color: green;
+   
+}
+.title2{
+    text-align: center;
+    position:relative;
+    top:200px;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+  
+}
+.colorlist{
+    display: flex;
+    justify-content: center;
+    height:100px;
+    width:700px;
+    top:200px;
+    position:relative;
+    margin: auto;
+    
+    
+}
+.colors2{
+   display: flex;
+   gap:15px;
+   flex-wrap: wrap; 
+}
+.black{
+   color:black;
+   font-size:30px ;
+
+}
+.teal{
+    color: teal;
+    font-size:30px;
+   
+}
+.blue{
+    color:blue;
+    font-size:30px;
+}
+.navy{
+    color:navy;
+    font-size: 30px;
+}
+.lime{
+    color:lime;
+    font-size:30px;
+}
+.white{
+    color:white;
+    font-size:30px;
+}
+.purple{
+    color:purple;
+    font-size:30px;
+}
+.yellow{
+    color:yellow;
+    font-size:30px;
+}
+.olive{
+    color:olive;
+    font-size:30px;
+}
+.red{
+    color:red;
+    font-size:30px;
+}
+.brown{
+    color:brown;
+    font-size:30px;
+}
+.gray{
+    color:gray;
+    font-size:30px;
+
+}
+.fuchsia{
+    color:fuchsia;
+    font-size:30px;
+}
+.green{
+    color:green;
+    font-size:30px;
+}
+.aqua{
+    color:aqua;
+    font-size:30px;
+}
+.silver{
+    color:silver;
+    font-size:30px;
+}
